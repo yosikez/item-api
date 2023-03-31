@@ -11,7 +11,7 @@ git clone https://github.com/yosikez/item-api.git
 2. Create a .env file based on the .env.example file and set the necessary configuration variables.
 3. Start the containers using Docker Compose
 ```bash
-docker-compose up --build
+docker compose up --build
 ```
 
 ## Usage
